@@ -1,0 +1,20 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "感谢游玩",
+        "description": "这张地图 就是愚人节的地图啦~",
+        "icon": {
+            "item": "minecraft:mob_spawner"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "thanks": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "april_fools:root"
+}

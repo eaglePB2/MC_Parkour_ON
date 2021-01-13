@@ -1,0 +1,20 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "弓箭好吃吗",
+        "description": "听说 这个箭矢是不能拿的。",
+        "icon": {
+            "item": "minecraft:arrow"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "Arrow": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "april_fools:root"
+}
